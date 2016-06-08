@@ -1,0 +1,6 @@
+E:\Projects\Data Structures\EventAndDelegates\EventAndDelegates\bin\Debug\EventAndDelegates.exe.config
+E:\Projects\Data Structures\EventAndDelegates\EventAndDelegates\bin\Debug\EventAndDelegates.exe
+E:\Projects\Data Structures\EventAndDelegates\EventAndDelegates\bin\Debug\EventAndDelegates.pdb
+E:\Projects\Data Structures\EventAndDelegates\EventAndDelegates\obj\Debug\EventAndDelegates.csprojResolveAssemblyReference.cache
+E:\Projects\Data Structures\EventAndDelegates\EventAndDelegates\obj\Debug\EventAndDelegates.exe
+E:\Projects\Data Structures\EventAndDelegates\EventAndDelegates\obj\Debug\EventAndDelegates.pdb

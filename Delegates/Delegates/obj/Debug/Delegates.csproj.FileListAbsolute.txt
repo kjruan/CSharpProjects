@@ -1,0 +1,6 @@
+E:\Projects\Data Structures\Delegates\Delegates\bin\Debug\Delegates.exe.config
+E:\Projects\Data Structures\Delegates\Delegates\bin\Debug\Delegates.exe
+E:\Projects\Data Structures\Delegates\Delegates\bin\Debug\Delegates.pdb
+E:\Projects\Data Structures\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+E:\Projects\Data Structures\Delegates\Delegates\obj\Debug\Delegates.exe
+E:\Projects\Data Structures\Delegates\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,6 @@
+E:\Projects\Data Structures\SimpleWebServer\SimpleWebServer\bin\Debug\SimpleWebServer.exe.config
+E:\Projects\Data Structures\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.csprojResolveAssemblyReference.cache
+E:\Projects\Data Structures\SimpleWebServer\SimpleWebServer\bin\Debug\SimpleWebServer.exe
+E:\Projects\Data Structures\SimpleWebServer\SimpleWebServer\bin\Debug\SimpleWebServer.pdb
+E:\Projects\Data Structures\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.exe
+E:\Projects\Data Structures\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.pdb
